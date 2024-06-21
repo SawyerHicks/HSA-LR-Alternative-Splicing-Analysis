@@ -1,0 +1,10 @@
+﻿Sample_Name,Mouse,Condition,Drug,Mouse_Condition,Mouse_Condition_Drug
+FVB_WT_1,WT,C,C,WT_C,WT_C_C
+FVB_WT_2,WT,C,C,WT_C,WT_C_C
+FVB_WT_3,WT,C,C,WT_C,WT_C_C
+HSALR_Combo_1,DM,T,Combo,DM_T,DM_T_Combo
+HSALR_Combo_2,DM,T,Combo,DM_T,DM_T_Combo
+HSALR_Combo_3,DM,T,Combo,DM_T,DM_T_Combo
+HSALR_NT_1,DM,C,C,DM_C,DM_C_C
+HSALR_NT_2,DM,C,C,DM_C,DM_C_C
+HSALR_NT_3,DM,C,C,DM_C,DM_C_C
