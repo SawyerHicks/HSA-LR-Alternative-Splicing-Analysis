@@ -5,7 +5,9 @@ Please read and follow the WIKI prior to using code.
 The following software were installed in user's directory and called through $PATH variable.
 
 stringtie clone https://github.com/gpertea/stringtie
+
 rmats turbo v4.1.1
+
 hisat2 v2.2.1
 
 Custom conda environment contains the following:
